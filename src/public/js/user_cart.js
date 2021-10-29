@@ -162,7 +162,7 @@ export default ({
 
 
                         <div class="cartTotal" v-if="userCart.length">
-                        <div class="grandTotal">{{ totalCartCost }} <span></span></div>
+                        <h3>Итого: {{ totalCartCost }}</h3>
                         <hr>
                         <button class="totalButton" type="button" @click="checkForm">Оформить заказ</button>
                         </div>
