@@ -1,0 +1,101 @@
+.cart_box {
+    width: 232px;
+    height: inherit;
+    background: white;
+    box-shadow: 6px 4px 35px rgba(0, 0, 0, 0.21);
+    margin-left: auto;
+    padding: 37px 24px;
+    box-sizing: border-box;
+    position: absolute;
+    max-height: inherit;
+    overflow: auto;
+    top: 62px;
+    right: 11px;
+    z-index: 2;
+}
+.cart-open-btn {
+    font-size: 13px;
+    line-height: 19px;
+    color: #ffffff;
+    border: 1px solid #ff6a6a;
+    padding: 14px 38px;
+    margin-top: 42px;
+    display: block;
+    margin-right: auto;
+    background: #f16d7f;
+}
+.cart-open-btn:hover {
+    background: #e24157;
+}
+.cart-open-link {
+    text-decoration: none;
+    color: white;
+}
+.cart-buttons {
+    display: flex;
+}
+.plus-item,
+.minus-item,
+.del-btn {
+    width: 40px;
+    height: 38px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.plus-item:hover {
+    background: rgb(207, 205, 205);
+}
+.minus-item:hover {
+    background: rgb(207, 205, 205);
+}
+.del-btn:hover {
+    background: rgb(207, 205, 205);
+}
+.cart-hr {
+    height: 3px;
+    width: 185px;
+    background: rgb(95, 95, 95);
+    margin-top: 30px;
+}
+.cart-header {
+    display: flex;
+    justify-content: space-between;
+}
+.closeCart {
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+.closeCart:hover {
+    background: rgb(207, 205, 205);
+}
+.cart-item-user {
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    box-shadow: 6px 4px 35px rgb(0 0 0 / 21%);
+    margin-bottom: 30px;
+}
+.cart-description {
+    margin-right: 40px;
+    margin-left: 20px;
+}
+.error-cart-box {
+    color: red;
+}
+@media (min-width: 640px) {
+    .cart-item-user {
+        display: flex;
+        justify-content: space-around;
+        padding-left: 30px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+        border-radius: 20px;
+        box-shadow: 6px 4px 35px rgb(0 0 0 / 21%);
+        margin-bottom: 30px;
+    }
+}

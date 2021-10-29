@@ -1,0 +1,37 @@
+[
+    {
+        "id_product": 401,
+        "product_img": "https://apple11.ru/22649/besprovodnaya-zaryadka-dlya-telefona-i-apple-watchpods-bystraya-hoco-cw21-wisdom-3-in-1-belaya.jpg",
+        "product_name": "Беспроводная зарядка",
+        "product_description": "Удобная беспроводная зарядка, позволяющая заряжать ваш iPhone, Apple Watch и наушники AirPods",
+        "price": 1520
+    },
+    {
+        "id_product": 402,
+        "product_img": "https://nesipetsin.com:8443/images/product/2021/07/21/18/42ac0786-6eee-4eb4-a940-41c8d41cfd55.jpg",
+        "product_name": "Apple AirPods",
+        "product_description": "bluetooth Наушники",
+        "price": 8650
+    },
+    {
+        "id_product": 403,
+        "product_img": "https://ee2.pigugroup.eu/colours/371/303/5/3713035/korvaklapid-apple-airpods-pro-wireless-charging-case_xbig.jpg",
+        "product_name": "Apple AirPods Pro",
+        "product_description": "bluetooth Наушники",
+        "price": 13499
+    },
+    {
+        "id_product": 404,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MY1H2?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1583200307779",
+        "product_name": "Чехол для iPhone 11",
+        "product_description": "Материал селикон Цвет грейпфрут",
+        "price": 1800
+    },
+    {
+        "id_product": 405,
+        "product_img": "https://maxmobiles.ru/9961-large_default/chekhol-apple-dlya-iphone-11-pro-silicone-case-black.jpg",
+        "product_name": "Чехол для iPhone 11",
+        "product_description": "Материал селикон Цвет черный",
+        "price": 1800
+    }
+]

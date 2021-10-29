@@ -1,0 +1,44 @@
+[
+    {
+        "id_product": 221,
+        "product_img": "https://object.pscloud.io/cms/cms/Photo/img_0_77_2737_4_1.jpg",
+        "product_name": "Apple iPhone 11 128ГБ",
+        "product_description": "Год релиза 2020 Процессор A13 Bionic Цвет серебристый Память 128 ГБ Оперативная память 8 ГБ",
+        "price": 54900
+    },
+    {
+        "id_product": 301,
+        "product_img": "https://maxi.az/upload/iblock/2c0/2c094f7b16d41460881691fb49a07860.jpg",
+        "product_name": "Apple iPhone 12 PRO MAX 512ГБ",
+        "product_description": "Год релиза 2021 Процессор A13 Bionic Цвет space gray Память 128 ГБ Оперативная память 8 ГБ",
+        "price": 98000
+    },
+    {
+        "id_product": 303,
+        "product_img": "https://estore.ua/media/catalog/product/i/p/iphone-12-pro-max-gold_1__2.jpeg",
+        "product_name": "Apple iPhone 12 PRO GOLD 512",
+        "product_description": "Год релиза 2021 Процессор A13 Bionic Цвет серебристый Память 512 ГБ Оперативная память 8 ГБ",
+        "price": 99900
+    },
+    {
+        "id_product": 323,
+        "product_img": "https://rebro-store.ru/upload/iblock/426/42631e4c98b32c5f50f4a21bec787364.jpg",
+        "product_name": "Apple iPhone 11 PRO 256",
+        "product_description": "Год релиза 2020 Процессор A13 Bionic Цвет Green Память 128 ГБ Оперативная память 8 ГБ",
+        "price": 58990
+    },
+    {
+        "id_product": 321,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-xs-max-spacegray?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1579299535473",
+        "product_name": "Apple iPhone XS Max 256ГБ",
+        "product_description": "Год релиза 2019 Процессор A12 Bionic Цвет Space Grey Память 256 ГБ Оперативная память 8 ГБ",
+        "price": 54900
+    },
+    {
+        "id_product": 322,
+        "product_img": "https://backend.trikart.com/media/catalog/product/a/p/apple-iphone-xs-max-4g-64gb-silver_2.jpg",
+        "product_name": "Apple iPhone XS Max 256ГБ",
+        "product_description": "Год релиза 2019 Процессор A12 Bionic Цвет White Память 256 ГБ Оперативная память 8 ГБ",
+        "price": 52999
+    }
+]

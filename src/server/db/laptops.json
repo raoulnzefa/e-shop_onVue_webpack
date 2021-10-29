@@ -1,0 +1,44 @@
+[
+    {
+        "id_product": 333,
+        "product_img": "https://mrpl-res.homecredit.ru/Item/bcf91bbacc7890e6acd3bf69c387a861.jpg",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "Год релиза 2020 Процессор Apple M1 Цвет gold Память 256 ГБ Оперативная память 8 ГБ",
+        "price": 76520
+    },
+    {
+        "id_product": 197,
+        "product_img": "https://mrpl-res.homecredit.ru/Item/c5a846dde5650d614c904e6d52a40591.jpg",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "Год релиза 2020 Процессор Apple M1 Цвет space grey Память 256 ГБ Оперативная память 8 ГБ",
+        "price": 79900
+    },
+    {
+        "id_product": 125,
+        "product_img": "https://data-to-data.ru/wp-content/uploads/2021/05/1620356160_812_pre-luchshie-predlozheniya-macbook-air-luchshie-predlozheniya-maj-2021-g.jpg",
+        "product_name": "Apple MacBook Air (2021)",
+        "product_description": "Год релиза 2020 Процессор Apple M1X Цвет space grey Память 256 ГБ Оперативная память 8 ГБ",
+        "price": 91280
+    },
+    {
+        "id_product": 452,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-silver-select-202005_GEO_RU?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1587460862539",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "some",
+        "price": 77850
+    },
+    {
+        "id_product": 280,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-silver-select-202005_GEO_RU?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1587460862539",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "some",
+        "price": 77850
+    },
+    {
+        "id_product": 235,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-silver-select-202005_GEO_RU?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1587460862539",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "some",
+        "price": 77850
+    }
+]

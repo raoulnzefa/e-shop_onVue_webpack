@@ -1,0 +1,23 @@
+[
+    {
+        "id_product": 102,
+        "product_img": "https://img.mvideo.ru/Pdb/30040333b.jpg",
+        "product_name": "Apple Watch 5",
+        "product_description": "Год релиза 2020 Размер 44mm Процессор S5 Bionic Цвет серебристый Память 32 ГБ",
+        "price": 26750
+    },
+    {
+        "id_product": 91,
+        "product_img": "https://img.mvideo.ru/Pdb/30040332b.jpg",
+        "product_name": "Apple Watch 5",
+        "product_description": "Год релиза 2020 Размер 44mm Процессор S5 Bionic Цвет серебристый Память 32 ГБ",
+        "price": 26750
+    },
+    {
+        "id_product": 32,
+        "product_img": "https://i-store.net/_sh/51/5159.jpg",
+        "product_name": "Apple Watch 5",
+        "product_description": "Год релиза 2020 Размер 44mm Процессор S5 Bionic Цвет серебристый Память 32 ГБ",
+        "price": 38900
+    }
+]

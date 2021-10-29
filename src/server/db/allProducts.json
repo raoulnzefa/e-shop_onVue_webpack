@@ -1,0 +1,191 @@
+[
+    {
+        "id_product": 221,
+        "product_img": "https://object.pscloud.io/cms/cms/Photo/img_0_77_2737_4_1.jpg",
+        "product_name": "Apple iPhone 11 128ГБ",
+        "product_description": "Год релиза 2020 Процессор A13 Bionic Цвет серебристый Память 128 ГБ Оперативная память 8 ГБ",
+        "price": 54900
+    },
+    {
+        "id_product": 301,
+        "product_img": "https://maxi.az/upload/iblock/2c0/2c094f7b16d41460881691fb49a07860.jpg",
+        "product_name": "Apple iPhone 12 PRO MAX 512ГБ",
+        "product_description": "Год релиза 2021 Процессор A13 Bionic Цвет space gray Память 128 ГБ Оперативная память 8 ГБ",
+        "price": 98000
+    },
+    {
+        "id_product": 303,
+        "product_img": "https://estore.ua/media/catalog/product/i/p/iphone-12-pro-max-gold_1__2.jpeg",
+        "product_name": "Apple iPhone 12 PRO GOLD 512",
+        "product_description": "Год релиза 2021 Процессор A13 Bionic Цвет серебристый Память 512 ГБ Оперативная память 8 ГБ",
+        "price": 99900
+    },
+    {
+        "id_product": 323,
+        "product_img": "https://rebro-store.ru/upload/iblock/426/42631e4c98b32c5f50f4a21bec787364.jpg",
+        "product_name": "Apple iPhone 11 PRO 256",
+        "product_description": "Год релиза 2020 Процессор A13 Bionic Цвет Green Память 128 ГБ Оперативная память 8 ГБ",
+        "price": 58990
+    },
+    {
+        "id_product": 321,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-xs-max-spacegray?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1579299535473",
+        "product_name": "Apple iPhone XS Max 256ГБ",
+        "product_description": "Год релиза 2019 Процессор A12 Bionic Цвет Space Grey Память 256 ГБ Оперативная память 8 ГБ",
+        "price": 54900
+    },
+    {
+        "id_product": 322,
+        "product_img": "https://backend.trikart.com/media/catalog/product/a/p/apple-iphone-xs-max-4g-64gb-silver_2.jpg",
+        "product_name": "Apple iPhone XS Max 256ГБ",
+        "product_description": "Год релиза 2019 Процессор A12 Bionic Цвет White Память 256 ГБ Оперативная память 8 ГБ",
+        "price": 52999
+    },
+    {
+        "id_product": 124,
+        "product_img": "https://images.biggeek.ru/1/435/2727/12442-553bigeek_image1.jpeg",
+        "product_name": "Apple iPhone 12",
+        "product_description": "some",
+        "price": 59990
+    },
+    {
+        "id_product": 457,
+        "product_img": "https://www.privezite.com/media/images/image_iLnXDzEWPY.JPEG.800x800_q85_upscale.jpg",
+        "product_name": "iPad pro 2020",
+        "product_description": "some",
+        "price": 89990
+    },
+    {
+        "id_product": 123,
+        "product_img": "https://telefonplus.ru/wp-content/uploads/2020/11/MX8E2_VW_34FRwatch-44-alum-spacegray-nc-nike6s_VW_34FR_WF_CO_GEO_RU.jpg",
+        "product_name": "Apple Watch 5",
+        "product_description": "some",
+        "price": 27900
+    },
+    {
+        "id_product": 456,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-silver-select-202005_GEO_RU?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1587460862539",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "some",
+        "price": 77850
+    },
+    {
+        "id_product": 333,
+        "product_img": "https://mrpl-res.homecredit.ru/Item/bcf91bbacc7890e6acd3bf69c387a861.jpg",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "Год релиза 2020 Процессор Apple M1 Цвет gold Память 256 ГБ Оперативная память 8 ГБ",
+        "price": 76520
+    },
+    {
+        "id_product": 197,
+        "product_img": "https://mrpl-res.homecredit.ru/Item/c5a846dde5650d614c904e6d52a40591.jpg",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "Год релиза 2020 Процессор Apple M1 Цвет space grey Память 256 ГБ Оперативная память 8 ГБ",
+        "price": 79900
+    },
+    {
+        "id_product": 125,
+        "product_img": "https://data-to-data.ru/wp-content/uploads/2021/05/1620356160_812_pre-luchshie-predlozheniya-macbook-air-luchshie-predlozheniya-maj-2021-g.jpg",
+        "product_name": "Apple MacBook Air (2021)",
+        "product_description": "Год релиза 2020 Процессор Apple M1X Цвет space grey Память 256 ГБ Оперативная память 8 ГБ",
+        "price": 91280
+    },
+    {
+        "id_product": 452,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-silver-select-202005_GEO_RU?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1587460862539",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "some",
+        "price": 77850
+    },
+    {
+        "id_product": 280,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-silver-select-202005_GEO_RU?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1587460862539",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "some",
+        "price": 77850
+    },
+    {
+        "id_product": 235,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-silver-select-202005_GEO_RU?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1587460862539",
+        "product_name": "Apple MacBook Air (2020)",
+        "product_description": "some",
+        "price": 77850
+    },
+    {
+        "id_product": 247,
+        "product_img": "https://img.mvideo.ru/Pdb/30029208b.jpg",
+        "product_name": "Apple iMac 27 Retina 5K",
+        "product_description": "Год релиза 2020 Процессор Intel Core i7 Цвет серебристый Память 512 ГБ Оперативная память 8 ГБ",
+        "price": 224990
+    },
+    {
+        "id_product": 229,
+        "product_img": "https://alif.shop/images/detailed/60/9hq.jpg",
+        "product_name": "Apple iMac 27 (2020) Intel Core i9",
+        "product_description": "Год релиза 2020 Intel Core i9 2,9 - 4,9 ГГц, 128 ГБ, SSD 2048 Гб, AMD Radeon™ Pro 5700, серебристый",
+        "price": 661990
+    },
+    {
+        "id_product": 227,
+        "product_img": "https://alif.shop/images/detailed/60/9hq.jpg",
+        "product_name": "Apple iMac 21,5 Retina 5K, 6C i5",
+        "product_description": "Год релиза 2019 Процессор Intel Core i5 Цвет серебристый Память 512 ГБ Оперативная память 8 ГБ",
+        "price": 121000
+    },
+    {
+        "id_product": 102,
+        "product_img": "https://img.mvideo.ru/Pdb/30040333b.jpg",
+        "product_name": "Apple Watch 5",
+        "product_description": "Год релиза 2020 Размер 44mm Процессор S5 Bionic Цвет серебристый Память 32 ГБ",
+        "price": 26750
+    },
+    {
+        "id_product": 91,
+        "product_img": "https://img.mvideo.ru/Pdb/30040332b.jpg",
+        "product_name": "Apple Watch 5",
+        "product_description": "Год релиза 2020 Размер 44mm Процессор S5 Bionic Цвет серебристый Память 32 ГБ",
+        "price": 26750
+    },
+    {
+        "id_product": 32,
+        "product_img": "https://i-store.net/_sh/51/5159.jpg",
+        "product_name": "Apple Watch 5",
+        "product_description": "Год релиза 2020 Размер 44mm Процессор S5 Bionic Цвет серебристый Память 32 ГБ",
+        "price": 38900
+    },
+    {
+        "id_product": 401,
+        "product_img": "https://apple11.ru/22649/besprovodnaya-zaryadka-dlya-telefona-i-apple-watchpods-bystraya-hoco-cw21-wisdom-3-in-1-belaya.jpg",
+        "product_name": "Беспроводная зарядка",
+        "product_description": "Удобная беспроводная зарядка, позволяющая заряжать ваш iPhone, Apple Watch и наушники AirPods",
+        "price": 1520
+    },
+    {
+        "id_product": 402,
+        "product_img": "https://nesipetsin.com:8443/images/product/2021/07/21/18/42ac0786-6eee-4eb4-a940-41c8d41cfd55.jpg",
+        "product_name": "Apple AirPods",
+        "product_description": "bluetooth Наушники",
+        "price": 8650
+    },
+    {
+        "id_product": 403,
+        "product_img": "https://ee2.pigugroup.eu/colours/371/303/5/3713035/korvaklapid-apple-airpods-pro-wireless-charging-case_xbig.jpg",
+        "product_name": "Apple AirPods Pro",
+        "product_description": "bluetooth Наушники",
+        "price": 13499
+    },
+    {
+        "id_product": 404,
+        "product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MY1H2?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1583200307779",
+        "product_name": "Чехол для iPhone 11",
+        "product_description": "Материал селикон Цвет грейпфрут",
+        "price": 1800
+    },
+    {
+        "id_product": 405,
+        "product_img": "https://maxmobiles.ru/9961-large_default/chekhol-apple-dlya-iphone-11-pro-silicone-case-black.jpg",
+        "product_name": "Чехол для iPhone 11",
+        "product_description": "Материал селикон Цвет черный",
+        "price": 1800
+    }
+]
