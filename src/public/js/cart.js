@@ -88,7 +88,7 @@ const cart = {
                         @addProduct="addProduct">
                     </cart-item>
                     <div class='cart-hr'></div>
-                    <h3 v-if='totalCartCost !== 0'>Итого {{totalCartCost}}</h3>
+                    <h3 v-if='totalCartCost !== 0'>Итого {{totalCartCost}}₽</h3>
                     <router-link class='cart-open-link' :to="{name:'user_cart'}">
                             <button class='cart-open-btn' v-on:click='isCartVisible = false'>Открыть корзину
                             </button>

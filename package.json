@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "buildDev": "rmdir dist && webpack --mode development --config webpack.server.config.js && webpack --mode development --config webpack.dev.config.js --w",
-    "buildProd": "rmdir dist && webpack --mode production --config webpack.server.config.js && webpack --mode production --config webpack.prod.config.js",
+    "build": "rmdir dist && webpack --mode production --config webpack.server.config.js && webpack --mode production --config webpack.prod.config.js",
     "start": "nodemon dist/server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
